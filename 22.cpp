@@ -8,7 +8,7 @@ int main(){
     while(i<=n){
         int j=1;
         while(j<=n){
-            cout<<count;
+            cout<<count<<" ";
             count=count+1;
             j=j+1;
         }
